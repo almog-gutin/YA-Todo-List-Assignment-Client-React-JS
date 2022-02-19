@@ -1,0 +1,15 @@
+@use '../../styles/base' as *;
+
+.tasks-counter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    max-width: 50rem;
+    height: 3rem;
+
+    font-weight: 700;
+    color: $darkGray;
+    font-size: 1.2rem;
+}
