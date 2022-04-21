@@ -7,7 +7,7 @@
     This client-side application is part of the Y&A Todo List assingment built with React and JavaScript. 
   </p>
 
-<a href="https://github.com/almog-gutin/YA-Todo-List-Assignment-Server-Node-JS">Back-end Repository</a>
+<a href="https://github.com/almoggutin/YA-Todo-List-Assignment-Server-Node-JS">Back-end Repository</a>
 
 </div>
 
@@ -55,7 +55,7 @@ In the homepage of the application there is a form in order to add a task and be
 **Git clone**
 
 ```
-git clone https://github.com/almog-gutin/YA-Todo-List-Assignment-Client-React-JS.git
+git clone https://github.com/almoggutin/YA-Todo-List-Assignment-Client-React-JS.git
 ```
 
 **Instructions**
